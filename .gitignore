@@ -1,24 +1,24 @@
-#Python cache
+# Python cache
 __pycache__/
-*·pyc
-*·Pyo
+*.pyc
+*.pyo
 *.pyd
 
-#Virtual environment
+# Virtual environment
 venv/
 env/
 
-#Jupyter Notebook checkpoints
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints
 
-#Data and models (large files)
+# Data and models (large files)
 data/
 models/
 
-#OS files
+# OS files
 .DS_Store
 Thumbs.db
 
-#IDE settings
+# IDE settings
 .vscode/
 .idea/
